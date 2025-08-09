@@ -60,6 +60,7 @@ The project includes a responsive, minimal front-end using HTML/CSS. It allows u
 
 - **Python** (3.8+)
 - **scikit-learn** – TF-IDF Vectorizer, cosine similarity
+- **Pickle**
 - **Flask**
 
 ---
